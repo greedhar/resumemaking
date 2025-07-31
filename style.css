@@ -207,6 +207,7 @@ body.dark-mode #dark-mode-toggle {
   .main-nav {
     right: 1rem;
     top: 1rem;
+    display: none;
   }
   .nav-links {
     display: none;
