@@ -25,10 +25,5 @@ Features:
    - In repo settings, set GitHub Pages source to the `main` branch (root).
    - Your site will be live at `https://<username>.github.io/<repo>/`.
 
-## Contact
-- Email: koiralagreedhar@gmail.com
-- LinkedIn: https://www.linkedin.com/in/giridhar-koirala-6905791aa
-
----
-
 MIT License 
+
