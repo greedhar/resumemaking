@@ -1,4 +1,4 @@
-# Giridhar Koirala - Personal Resume Website
+# Personal Resume Website
 
 A modern, responsive, single-page resume website for Giridhar Koirala.
 
@@ -30,4 +30,5 @@ Features:
 - LinkedIn: https://www.linkedin.com/in/giridhar-koirala-6905791aa
 
 ---
+
 MIT License 
