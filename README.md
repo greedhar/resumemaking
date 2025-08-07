@@ -1,6 +1,6 @@
 # Personal Resume Website
 
-A modern, responsive, single-page resume website for Giridhar Koirala.
+A modern, responsive, single-page resume website
 
 Features:
 - Responsive layout (About, Experience & Skills, Education, Projects, Contact)
@@ -26,4 +26,5 @@ Features:
    - Your site will be live at `https://<username>.github.io/<repo>/`.
 
 MIT License 
+
 
